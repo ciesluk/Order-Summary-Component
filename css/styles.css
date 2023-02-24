@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    background: hsl(225, 100%, 94%);
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.summary-card{
+    width: 450px;
+    height: 697px;
+    border-radius: 20px;
+    background-color: hsl(225, 100%, 98%);
+}
+
+.illustration-image{
+    width: 450px;
+    height: 220px;
+}
+
+.illustration-image img{
+    border-radius: 20px 20px 0 0;
+}
+
+.summary-information{
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem;
+}
+
+h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+button{
+    font-family: inherit;
+}
