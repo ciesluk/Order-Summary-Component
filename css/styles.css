@@ -45,6 +45,25 @@ h1{
     font-weight: 900;
 }
 
+.confirmation-message{
+    line-height: 26px;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+    color: hsl(224, 23%, 55%);
+}
+
+.plan-information{
+    display: flex;
+    justify-content: space-between;
+}
+
 button{
     font-family: inherit;
+    padding: 15px;
+    border-radius: 11px;
+    border: none;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-weight: 900;
 }
