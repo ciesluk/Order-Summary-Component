@@ -19,7 +19,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution - Code](https://your-solution-url.com)
+- Solution URL: [Solution - Code](https://github.com/ciesluk/order-summary-component-main)
 - Live Site URL: [Live](https://your-live-site-url.com)
 
 ## My process
