@@ -20,7 +20,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Solution - Code](https://github.com/ciesluk/order-summary-component-main)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://majestic-stardust-2d10ee.netlify.app/)
 
 ## My process
 
@@ -32,7 +32,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Tom Cieslukowski](https://www.tomcieslukowski.com)
+- Frontend Mentor - [@ciesluk](https://www.frontendmentor.io/profile/ciesluk)
+- Instagram - [@ciesluk_codes](https://www.instagram.com/ciesluk_codes/)
 
